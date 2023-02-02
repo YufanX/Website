@@ -1,5 +1,5 @@
 "name";"parent";"from";"color";"value"
-"Acoustic Garden";"Project";GAP+;"#FFA500";100
+"Acoustic Garden";"Project";"GAP+";"#FFA500";100
 "The Maelstrom";"Project";"Acoustic Garden";"#00D989";50
 "GAP+";"Project";"";"#ADA7A7";70
 "The Unknown Cities";"Project";"Differential Growth";"#009CFF";70
