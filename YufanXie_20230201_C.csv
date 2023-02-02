@@ -1,9 +1,9 @@
-﻿id,name,parent,from,color,value
-0,Acoustic Garden,Project,GAP+,#FFA500,100
-1,The Maelstrom,Project,Acoustic Garden,#00D989,50
-2,GAP+,Project,,#ADA7A7,70
-3,The Unknown Cities,Project,Differential Growth,#009CFF,70
-4,Sonarium,Project,GAP+,#FF6C8B,50
-5,Differential Growth,Computation,,#FDB750,40
-6,Skeleton Physarum System,Computation,,#D37506,40
-7,Self-Organizing System,Computation,,#00B4FF,40
+﻿id,name,parent,from,color,value,coordinateX,coordinateY
+0,Acoustic Garden,Project,GAP+,#FFA500,100,0.2,0.1
+1,The Maelstrom,Project,Acoustic Garden,#00D989,50,0.5,0.1
+2,GAP+,Project,,#ADA7A7,70,0.8,0
+3,The Unknown Cities,Project,Differential Growth,#009CFF,70,-0.3,-0.9
+4,Sonarium,Project,GAP+,#FF6C8B,50,0,1,0.8
+5,Differential Growth,Computation,,#FDB750,40,-0.5,0
+6,Skeleton Physarum System,Computation,,#D37506,40,-0.8,0.3
+7,Self-Organizing System,Computation,,#00B4FF,40,-0.2,0.7
