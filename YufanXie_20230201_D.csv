@@ -1,0 +1,9 @@
+"name";"parent";"from";"color";"value"
+"Acoustic Garden";"Project";GAP+;"#FFA500";100
+"The Maelstrom";"Project";"Acoustic Garden";"#00D989";50
+"GAP+";"Project";"";"#ADA7A7";70
+"The Unknown Cities";"Project";"Differential Growth";"#009CFF";70
+"Sonarium";"Project";"GAP+";"#FF6C8B";50
+"Differential Growth";"Computation";"";"#FDB750";40
+"Skeleton Physarum System";"Computation";"";"#D37506";40
+"Self-Organizing System";"Computation";"";"#00B4FF";40
