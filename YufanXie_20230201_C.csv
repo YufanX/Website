@@ -1,10 +1,10 @@
-﻿id,bubbleName,parent,from,bubbleColor,bubbleRadius,coordinateX,coordinateY
-0,Acoustic Garden,Project,GAP+,#FFA500,1,0.2,0.4
-1,The Maelstrom,Project,Acoustic Garden,#00D989,0.5,0.5,0.1
-2,GAP+,Project,,#ADA7A7,0.3,0.8,0
-3,The Unknown Cities,Project,Differential Growth,#009CFF,0.3,-0.3,-0.9
-4,Sonarium,Project,GAP+,#FF6C8B,0.45,0,1,0.8
-5,Differential Growth,Computation,,#FDB750,0.2,-0.5,0
-6,Skeleton Physarum,Computation,,#D37506,0.2,-0.8,0.3
-7,Self-Organizing,Computation,,#00B4FF,0.2,-0.2,0.7
-8,KD Tree,Computation,,#00B4FF,0.2,-0.5,0.6
+﻿id,bubbleName,parent,from,bubbleColor,bubbleRadius,coordinateX,coordinateY,link
+0,Acoustic Garden,Project,GAP+,#FFA500,1,0.2,0.4,http://yufanxie.com/project/acoustic-garden/
+1,The Maelstrom,Project,Acoustic Garden,#00D989,0.5,0.5,0.1,https://yufanxie.com/project/the-maelstrom/
+2,GAP+,Project,,#ADA7A7,0.3,0.8,0,https://yufanxie.com/project/gap/
+3,The Unknown Cities,Project,Differential Growth,#009CFF,0.3,-0.3,-0.9,https://yufanxie.com/project/the-unknown-cities/
+4,Sonarium,Project,GAP+,#FF6C8B,0.45,0,1,0.8,https://yufanxie.com/project/sonarium/
+5,Differential Growth,Computation,,#FDB750,0.2,-0.5,0,https://yufanxie.com/project/differential-growth/
+6,Skeleton Physarum,Computation,,#D37506,0.2,-0.8,0.3,https://yufanxie.com/project/skeleton-physarum/
+7,Self-Organizing,Computation,,#00B4FF,0.2,-0.2,0.7,https://yufanxie.com/project/self-organizing-system-of-basic-behaviours/
+8,KD Tree,Computation,,#00B4FF,0.2,-0.5,0.6,https://yufanxie.com/project/kd-tree/
